@@ -25,7 +25,7 @@ function Login() {
         </form>
         <div className="go-join">
             <div className="title txt-bold">
-                또는 회원가입하기
+                또는 회원가입하기!
             </div>
             <div className="asset">
                 <img src="/assets/welcome/arrow.svg" alt="회원가입하기" />
